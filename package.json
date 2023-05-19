@@ -1,0 +1,16 @@
+{
+    "name": "android-react-native-app",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "yarn react-native start",
+        "android": "yarn react-native run-android"
+    },
+    "dependencies": {
+        "expo": "^48.0.17",
+        "hermes-engine": "^0.11.0",
+        "jsc-android": "^250231.0.0",
+        "react": "^18.3.0-next-fecc288b7-20221025",
+        "react-native": "^0.71.8"
+    }
+}

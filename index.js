@@ -4,7 +4,7 @@ import {AppRegistry, StyleSheet, Text, View} from 'react-native';
 const HelloWorld = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.hello}>Hello, Android!</Text>
+      <Text style={styles.hello}>"Hello. I'm React Native Screen!"</Text>
     </View>
   );
 };
